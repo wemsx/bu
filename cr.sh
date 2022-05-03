@@ -1,0 +1,52 @@
+#!/bin/sh
+echo "Start"
+hexo new 曹恩恺
+hexo new 程彦瑞
+hexo new 陈姚澍
+hexo new 陈亦鑫
+hexo new 代识未
+hexo new 邓营世
+hexo new 冯馨仪
+hexo new 黄麒升
+hexo new 黄庭嚁
+hexo new 黄艺琳
+hexo new 金泓恺
+hexo new 赖劼立
+hexo new 林妮可
+hexo new 刘安睦
+hexo new 刘书成
+hexo new 刘钥垚
+hexo new 李柯瑶
+hexo new 李青霖
+hexo new 李奕乐
+hexo new 李玉棠
+hexo new 罗彬瑞
+hexo new 罗浩元
+hexo new 罗婉宁
+hexo new 吕佳饴
+hexo new 孟宇涵
+hexo new 欧力文上
+hexo new 秦锦程
+hexo new 孙旭隆
+hexo new 唐艺俽
+hexo new 王健楠
+hexo new 王军
+hexo new 王柯宇
+hexo new 王文轩
+hexo new 魏思柔
+hexo new 魏子骞
+hexo new 文亚卿
+hexo new 吴泽希
+hexo new 先晨熙
+hexo new 鲜洋
+hexo new 薛诗然
+hexo new 杨耀天
+hexo new 羊照
+hexo new 袁睿聆
+hexo new 曾谱衔
+hexo new 张子萱
+hexo new 郑斯予
+hexo new 周盛涵
+echo "Finish"
+echo 按任意键继续
+read -n 1

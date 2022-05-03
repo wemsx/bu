@@ -1,0 +1,201 @@
+- class_name: 老师们
+  class_desc: 感谢每一位您,为我们带来知识与未来
+  link_list:
+    - name: 赵老师
+      link: https://cten.tk/sx
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/teachers/zn.jpg
+      descr: 班主任兼数学老师
+- class_name: 同学们
+  class_desc: 感谢每一个你,每天共同进步
+  link_list:
+    - name: 鲜洋
+      link: https://cten.tk/xianyang
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/xy.png
+      descr: 洋洋~~感谢作为首位“受害者”提供资料
+    - name: 曹恩恺
+      link: https://cten.tk/caoenkai
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/cek.jpg
+      descr: “享受”每节课中
+    - name: 程彦瑞
+      link: https://cten.tk/chengyanrui
+      avatar: https://drive.cten.ga/api/raw/?path=/image/related/ten.jpg
+      descr: 关于“小班长”到十班班长这件事
+    - name: 陈姚澍
+      link: https://cten.tk/chenyaoshu
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/cys.jpg
+      descr: 十班板报负责人
+    - name: 陈亦鑫
+      link: https://cten.tk/chenyixin
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/cyx.jpg
+      descr: товарищ 陈
+    - name: 代识未
+      link: https://cten.tk/daishiwei
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/dsw.jpg
+      descr: “护花使者”本尊
+    - name: 邓营世
+      link: https://cten.tk/dengyingshi
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/dys.jpg
+      descr: 十班颜值排面
+    - name: 冯馨仪
+      link: https://cten.tk/fengxinyi
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/fxy.jpg
+      descr: 上课自动闭麦
+    - name: 黄麒升
+      link: https://cten.tk/huangqisheng
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/hqs.jpg
+      descr: 一只Egg
+    - name: 黄庭嚁
+      link: https://cten.tk/huangtingyao
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/hty.jpg
+      descr: 萝板儿,危!
+    - name: 黄艺琳
+      link: https://cten.tk/huangyilin
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/hyl.jpg
+      descr: 某化学课代表
+    - name: 金泓恺
+      link: https://cten.tk/jinhongkai
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/jhk.jpg
+      descr: 数学课代表教你考试考砸
+    - name: 赖劼立
+      link: https://cten.tk/laijieli
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/ljl.jpg
+      descr: 赖jio教你格式书写
+    - name: 林妮可
+      link: https://cten.tk/linnike
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/lnk.jpg
+      descr: 尽职尽责的学习委员
+    - name: 刘安睦
+      link: https://cten.tk/liuanmu
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/lam.jpg
+      descr: "从来没有被针对过"
+    - name: 刘书成
+      link: https://cten.tk/liushucheng
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/lsc.jpg
+      descr: 鼠学课代表
+    - name: 刘钥垚
+      link: https://cten.tk/liuyueyao
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/lyy.jpg
+      descr: 生物没过的扣五十分
+    - name: 李柯瑶
+      link: https://cten.tk/likeyao
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/lky.jpg
+      descr: 热衷于刷题的语文课代表
+    - name: 李青霖
+      link: https://cten.tk/liqinglin
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/lql.jpg
+      descr: 我班大神
+    - name: 李奕乐
+      link: https://cten.tk/liyile
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/lyl.jpg
+      descr: 不领跑的体育委员
+    - name: 李玉棠
+      link: https://cten.tk/liyutang
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/lyt.jpg
+      descr: 我班军事专家
+    - name: 罗彬瑞
+      link: https://cten.tk/luobinrui
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/lbr.jpg
+      descr: 多才多艺的文艺委员
+    - name: 罗婉宁
+      link: https://cten.tk/luowanning
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/lwn.jpg
+      descr: 不活跃的宣传委员
+    - name: 吕佳饴
+      link: https://cten.tk/lvjiayi
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/ljy.jpg
+      descr: 吕组长
+    - name: 孟宇涵
+      link: https://cten.tk/mengyuhan
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/myh.jpg
+      descr: 班内语言艺术家
+    - name: 欧力文上
+      link: https://cten.tk/ouliwenshang
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/olws.jpg
+      descr: 一个OP
+    - name: 秦锦程
+      link: https://cten.tk/qinjincheng
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/qjc.jpg
+      descr: 也称大锤,二狗
+    - name: 孙旭隆
+      link: https://cten.tk/sunxulong
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/sxl.jpg
+      descr: 我真没有睡觉,我睁着眼的
+    - name: 唐艺俽
+      link: https://cten.tk/tangyixin
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/tyx.jpg
+      descr: 等我找一下你的默写本
+    - name: 王健楠
+      link: https://cten.tk/wangjiannan
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/wjn.jpg
+      descr: 为了学习,我决定装台电脑
+    - name: 王军
+      link: https://cten.tk/wangjjun
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/wj.jpg
+      descr: 军军~~
+    - name: 王柯宇
+      link: https://cten.tk/wangkeyu
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/wky.jpg
+      descr: 领跑步太难了...
+    - name: 王文轩
+      link: https://cten.tk/wangwenxuan
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/wwx.jpg
+      descr: 轩轩别喊了，上课了
+    - name: 魏思柔
+      link: https://cten.tk/weisirou
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/wsr.jpg
+      descr: 活跃在学校各处的巨佬
+    - name: 魏子骞
+      link: https://cten.tk/weiziqian
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/wzq.jpg
+      descr: 实习了很久,但就是没转正
+    - name: 文亚卿
+      link: https://cten.tk/wenyaqing
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/wyq.jpg
+      descr: Wa氢,专业抱作业学家
+    - name: 吴泽希
+      link: https://cten.tk/wuzexi
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/wzx.jpg
+      descr: 希妹妹,你的书怎么又掉页了?
+    - name: 先晨熙
+      link: https://cten.tk/xianchenxi
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/xcx.jpg
+      descr: 低调的语文巨佬
+    - name: 薛诗然
+      link: https://cten.tk/xueshiran
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/xsr.jpg
+      descr: 袁睿聆er啊袁睿聆er~~
+    - name: 杨耀天
+      link: https://cten.tk/yangyaotian
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/yyt.jpg
+      descr: 一名400米战神
+    - name: 羊照
+      link: https://cten.tk/yangzhao
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/yz.jpg
+      descr: 噗————嗝————
+    - name: 袁睿聆
+      link: https://cten.tk/yuanruiling
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/yrl.jpg
+      descr: 什么?要过关了?
+    - name: 曾谱衔
+      link: https://cten.tk/zengpuxian
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/zpx.jpg
+      descr: 也叫做小街(gai)
+    - name: 张子萱
+      link: https://cten.tk/zhangzixuan
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/zzx.jpg
+      descr: “剥削”“工具人”.ing
+    - name: 郑斯予
+      link: https://cten.tk/zhengsiyu
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/zsy.jpg
+      descr: 一位深藏不露的巨佬。
+    - name: 周盛涵
+      link: https://cten.tk/zhoushenghan
+      avatar: https://drive.cten.ga/api/raw/?path=/image/headp/cm/zsh.jpg
+      descr: 啊,上课了？
+- class_name: 项目组成员
+  class_desc: 用肝和作业换来这个网站
+  link_list:
+    - name: 罗浩元
+      link: https://cten.tk/luohaoyuan
+      avatar: https://cdn.jsdelivr.net/gh/Thewems/imgcdn1/img/head_photo.png
+      descr: 芜湖起飞

@@ -1,0 +1,44 @@
+# 任务名称：任意
+name: Deploy Blog Pages
+
+# 触发条件
+on:
+  # push，也就是推送到仓库时才执行任务
+  push:
+    # 分支，这里选择 main，也就是只有推送到 main 分支时才执行任务【可选】
+    branches:
+      - master
+      - main
+
+# 任务
+jobs:
+  # 任务名称，任意
+  build-and-deploy:
+    # 服务器环境：最新版 Ubuntu
+    runs-on: ubuntu-latest
+    steps:
+      # 拉取
+      - name: 📦 Checkout
+        uses: actions/checkout@v2
+
+      # 生成静态文件
+      - name: 🔧 Install and Build
+        run: |
+          npm ci
+          npm run build
+        # 如果采用 yarn 进行包管理，则使用下面的代码
+        #  yarn
+        #  yarn build
+
+      # 部署到 GitHub Pages
+      - name: 🚀 Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v4
+        with:
+          # GitHub 的 Personal access token
+          token: ${{secrets.PAT}}
+          # 更换为自己的 <user>/<user>.github.io
+          repository-name: wemsx/cten
+          # 要部署到的分支
+          branch: master
+          # 上一步生成的静态文件的地址
+          folder: public
