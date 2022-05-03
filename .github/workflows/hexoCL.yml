@@ -7,8 +7,7 @@ on:
   push:
     # 分支，这里选择 main，也就是只有推送到 main 分支时才执行任务【可选】
     branches:
-      - master
-      - main
+      - hexo
 
 # 任务
 jobs:
@@ -37,7 +36,7 @@ jobs:
           # GitHub 的 Personal access token
           token: ${{secrets.PAT}}
           # 更换为自己的 <user>/<user>.github.io
-          repository-name: wemsx/cten
+          repository-name: wemsx/preview
           # 要部署到的分支
           branch: master
           # 上一步生成的静态文件的地址
