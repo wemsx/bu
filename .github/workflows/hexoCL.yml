@@ -25,6 +25,8 @@ jobs:
         run: |
           npm ci
           npm run build
+          rm public/search.xml
+          cp search.xml public
         # 如果采用 yarn 进行包管理，则使用下面的代码
         #  yarn
         #  yarn build
@@ -36,7 +38,7 @@ jobs:
           # GitHub 的 Personal access token
           token: ${{secrets.PAT}}
           # 更换为自己的 <user>/<user>.github.io
-          repository-name: wemsx/preview
+          repository-name: wemsx/bu
           # 要部署到的分支
           branch: master
           # 上一步生成的静态文件的地址
