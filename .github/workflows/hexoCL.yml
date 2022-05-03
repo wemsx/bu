@@ -23,9 +23,7 @@ jobs:
       # 生成静态文件
       - name: 🔧 Install and Build
         run: |
-          npm i hexo-cli
           npm i
-          hexo cl
           hexo g
           rm public/search.xml
           cp search.xml public
