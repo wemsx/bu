@@ -24,6 +24,7 @@ jobs:
       - name: 🔧 Install and Build
         run: |
           npm i
+          npm i hexo-cli
           hexo g
           rm public/search.xml
           cp search.xml public
